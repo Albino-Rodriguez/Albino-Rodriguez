@@ -1,7 +1,7 @@
 # Hi, I'm Albino 👋
 
 MBA – Data Analytics  
-Data Analyst with experience in SQL, Python, Excel, and Tableau  
+Data analyst with hands-on project experience in SQL, Python, Excel, Tableau, and Power BI. 
 Fitness & performance analytics enthusiast  
 
 ## Skills
